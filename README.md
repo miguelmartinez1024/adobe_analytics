@@ -11,13 +11,9 @@ requests) and classification uploads. It also provides an easy interface closer 
 the metal for other requests to their API.
 
 ## Installation
-Through PyPI:
+Via git:
 
-    pip install adobe_analytics
-
-or via git:
-
-    pip install git+http://github.com/SaturnFromTitan/adobe_analytics.git
+    pip install git+http://github.com/miguelmartinez1024/adobe_analytics.git
 
 Supports Python 3.5+
 
